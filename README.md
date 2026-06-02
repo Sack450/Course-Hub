@@ -1,4 +1,4 @@
-# CourseHub - Plataforma de Cursos en Línea (Versión 2)
+# CourseHub - Plataforma de Cursos en Línea 
 
 ¡Bienvenido a **CourseHub**! Una plataforma web interactiva y moderna para la gestión y aprendizaje de cursos en línea, construida con tecnologías web estándar (HTML5, CSS3, JavaScript) y persistencia del lado del cliente.
 
